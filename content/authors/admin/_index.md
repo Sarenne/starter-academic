@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I’m a 1st-year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc) and the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/), working with Steve Renals, Catherine Lai, and Peter Bell.
+I’m a first year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc) and the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/), working with Steve Renals, Catherine Lai, and Peter Bell.
 
 My research is about **communication**: how it is used, and why.
 
