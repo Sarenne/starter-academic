@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: sarenne.wallbridge@gmail.com #'/#contact'
+  link: '/#contact' # sarenne.wallbridge@gmail.com
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/sarenne.wallbridge
@@ -57,7 +57,7 @@ social:
   link: https://github.com/sarenne
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/sarennewallbridge
+  link: https://www.linkedin.com/in/sarennewallbridge/
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
@@ -87,4 +87,4 @@ In my spare time, I climb rocks or mountains (whichever is closest), play music,
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-{{< icon name="download" pack="fas" >}} Before starting my PhD, I worked on a number of ML research teams in London and Copenhagen. Check out my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
+{{< icon name="download" pack="fas" >}} Before starting my PhD, I worked on a number of ML research teams in London and Copenhagen. Check out my {{< staticref "media/cv_phd.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
