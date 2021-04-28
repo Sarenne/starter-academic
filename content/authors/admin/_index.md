@@ -76,13 +76,13 @@ I’m a first year PhD student at the [University of Edinburgh](https://www.ed.a
 
 My research is about **communication**: how it is used, and why.
 
-Currently, my focus is human conversation.  I'm interested in leveraging information encoded in the audio channel of our speech to better understand what makes human interaction fluent (and disfluent), and how we jointly encode and decode information effectively across channels during communication. I'm excited about learning representations of speech through self-supervision and multimodal approaches.
+Currently, my focus is spoken conversation.  I'm interested in leveraging information encoded in the audio channel of our speech to better understand what makes human interaction fluent (and disfluent), and how we jointly encode and decode information effectively across channels during communication. I'm excited about learning representations of speech through self-supervision and multimodal approaches.
 
 _[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage the non-lexical information encoded in our speech to better understand human communication and augment human-machine interaction?]_
 
 <!-- Currently, my focus is human conversation and understanding how to leverage information encoded in the audio channel of our speech to better understand the semantics and syntax of fluent (and disfluent) human interaction. I'm interested in how to learn representations of speech to detect salient or surprising parts of spoken interaction through self-supervision or multimodal learning. -->
 
-In my spare time, I climb rocks or mountains (whichever is closest!), play music, and teach yoga.
+In my spare time, I love to play, sing, and listen to music. I also climb rocks or mountains (whichever is closest!), and teach yoga.
 
 <!-- \[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage non-lexical information encoded in our speech to better understand how humans interact with each other, and how we interact with machines?\] -->
 
