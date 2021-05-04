@@ -20,11 +20,19 @@ publication_types: ["1"]
 publication: In *Interspeech 2021* (under review). Brno, Czech Republic
 # publication_short: In *Interspeech 2021* (under review). Brno, Czech Republic
 
-abstract: People convey information extremely effectively through spoken interaction using multiple channels of information transmission - the lexical channel of what is said, and the non-lexical channel of how it is said.  We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question *What characteristics of communicative context affect listener's expectations of speech?*.  To investigate this, we present a novel behavioural task testing whether listeners can discriminate between the true utterance in a dialogue and utterances sampled from other contexts with the same lexical content. We characterize how perception -- and subsequent discriminative capability--is affected by different degrees of additional contextual information across both the lexical and non-lexical channel of speech.  Results demonstrate that people can effectively discriminate between different prosodic realisations, that non-lexical context is informative, and that this channel provides more salient information than the lexical channel, highlighting the importance of the non-lexical channel in spoken interaction. 
+abstract: "People convey information extremely effectively through spoken interaction using multiple channels of information transmission - the lexical channel of what is said, and the non-lexical channel of how it is said.  We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question *What characteristics of communicative context affect listener's expectations of speech?*
+
+
+To investigate this, we present a novel behavioural task testing whether listeners can discriminate between the true utterance in a dialogue and utterances sampled from other contexts with the same lexical content. We characterize how perception -- and subsequent discriminative capability--is affected by different degrees of additional contextual information across both the lexical and non-lexical channel of speech.
+
+
+Results demonstrate that people can effectively discriminate between different prosodic realisations, that non-lexical context is informative, and that this channel provides more salient information than the lexical channel, highlighting the importance of the non-lexical channel in spoken interaction."
 
 # Summary. An optional shortened abstract.
-summary: In *Interspeech 2021* (under review). Brno, Czech Republic // People convey information extremely effectively through spoken interaction using multiple channels of information transmission - the lexical channel of *what* is said, and the non-lexical channel of *how* it is said.
-# We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question  What characteristics of communicative context affect listener's expectations of speech?.
+summary: "In _Interspeech 2021_ (under review). Brno, Czech Republic"
+
+
+# People convey information extremely effectively through spoken interaction using multiple channels of information transmission - the lexical channel of *what* is said, and the non-lexical channel of *how* it is said. We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question  What characteristics of communicative context affect listener's expectations of speech?. "
 
 tags:
 - Source Themes
@@ -33,7 +41,7 @@ featured: true
 links:
 # - name: Custom Link
   # url: http://example.org
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://arxiv.org/pdf/2105.00260.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
