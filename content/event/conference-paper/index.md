@@ -31,7 +31,6 @@ Results demonstrate that people can effectively discriminate between different p
 # Summary. An optional shortened abstract.
 summary: "In _Interspeech 2021_ (under review) ; Brno, Czech Republic"
 
-
 # People convey information extremely effectively through spoken interaction using multiple channels of information transmission - the lexical channel of *what* is said, and the non-lexical channel of *how* it is said. We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question  What characteristics of communicative context affect listener's expectations of speech?. "
 
 tags:
