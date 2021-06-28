@@ -14,7 +14,7 @@ organizations:
   url: https://web.inf.ed.ac.uk/ilcc
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include NLP, ML, pyscholinguistics, and information theory.
+bio: My research interests include machine learning, pyscholinguistics, and information theory.
 
 # Interests to show in About widget
 interests:
@@ -82,7 +82,7 @@ _[Translation: Spoken conversation is one of the most fundamental means of infor
 
 <!-- Currently, my focus is human conversation and understanding how to leverage information encoded in the audio channel of our speech to better understand the semantics and syntax of fluent (and disfluent) human interaction. I'm interested in how to learn representations of speech to detect salient or surprising parts of spoken interaction through self-supervision or multimodal learning. -->
 
-In my spare time, I love to play, sing, and listen to music. I also climb rocks or mountains (whichever is closest!), and teach yoga.
+In my spare time, I love to play, sing, and listen to music. I also enjoy climbing rocks or mountains (whichever is closest!), and teaching yoga.
 
 <!-- \[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage non-lexical information encoded in our speech to better understand how humans interact with each other, and how we interact with machines?\] -->
 
