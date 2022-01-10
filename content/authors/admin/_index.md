@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I’m a first year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc) and the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/), working with Steve Renals, Catherine Lai, and Peter Bell.
+I’m a second year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc) and the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/), working with Steve Renals, Catherine Lai, and Peter Bell.
 
 My research is about **communication**: how it is used, and why.
 
@@ -82,7 +82,7 @@ _[Translation: Spoken conversation is one of the most fundamental means of infor
 
 <!-- Currently, my focus is human conversation and understanding how to leverage information encoded in the audio channel of our speech to better understand the semantics and syntax of fluent (and disfluent) human interaction. I'm interested in how to learn representations of speech to detect salient or surprising parts of spoken interaction through self-supervision or multimodal learning. -->
 
-In my spare time, I love to play, sing, and listen to music. I also enjoy climbing rocks or mountains (whichever is closest!), and teaching yoga.
+In my spare time, I love to play, sing, and listen to music. I also enjoy climbing moutains or rocks (whichever is closest!), and teaching yoga.
 
 <!-- \[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage non-lexical information encoded in our speech to better understand how humans interact with each other, and how we interact with machines?\] -->
 
