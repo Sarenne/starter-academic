@@ -1,5 +1,5 @@
 ---
-title: "It's not what you said, it's how you said it: discriminative perception of speech as a multichannel communication system"
+title: "It's not what you said, it's how you said it: discriminative perception of speech as a multichannel communication system EVENT"
 authors:
 - admin
 - Peter Bell
