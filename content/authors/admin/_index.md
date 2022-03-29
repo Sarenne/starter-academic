@@ -74,21 +74,12 @@ highlight_name: false
 
 I’m a second year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai, Peter Bell, and Steve Renals.
 
-My research is about **communication**: how it is used, and why.
+My research is about **communication**, and how we use it efficiently.
 
-Currently, my focus is spoken conversation.  I'm interested in leveraging information encoded in the audio channel of our speech to better understand what makes human interaction fluent (and disfluent), and how we jointly encode and decode information effectively across channels during communication. I'm excited about learning representations of speech through self-supervision and multimodal approaches.
+Currently, my focus is spoken conversation.  I'm investigating how to leverage information in the audio channel of speech to better understand what makes human interaction fluent (and disfluent), and how we jointly encode and decode information across the lexical and non-lexical channels of spoken communication. I'm excited about learning representations of speech with self-supervised and multimodal approaches.
 
 _[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage the non-lexical information encoded in our speech to better understand human communication and augment human-machine interaction?]_
 
-<!-- Currently, my focus is human conversation and understanding how to leverage information encoded in the audio channel of our speech to better understand the semantics and syntax of fluent (and disfluent) human interaction. I'm interested in how to learn representations of speech to detect salient or surprising parts of spoken interaction through self-supervision or multimodal learning. -->
-
 In my spare time, I love to play, sing, and listen to music. I also enjoy climbing moutains or rocks (whichever is closest!), and teaching yoga.
 
-<!-- \[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage non-lexical information encoded in our speech to better understand how humans interact with each other, and how we interact with machines?\] -->
-
-<!-- Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 {{< icon name="download" pack="fas" >}} Before starting my PhD, I worked on a number of ML research teams in the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
