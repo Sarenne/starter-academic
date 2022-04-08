@@ -1,5 +1,5 @@
 ---
-title: "Interspeech2022"
+title: "Investigating perception of spoken dialogue acceptability through surprisal"
 authors:
 - admin
 - Peter Bell
@@ -14,10 +14,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: Interspeech 2022
+publication: submitted to *Interspeech 2022*
 # publication_short: In *I*
 
 abstract:
@@ -34,11 +34,11 @@ summary: Stimuli for Interspeech 2022
 # We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question  What characteristics of communicative context affect listener's expectations of speech?.
 
 tags:
-# - Source Themes
-# featured: true
+- Source Themes
+featured: true
 
 links:
-- name: ''
+# - name: 'here '
   # url: http://example.org
 url_pdf: ''
 # url_code: '#'
@@ -79,5 +79,26 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 <!-- {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
+<h2>
+Stimuli page for <i>Interspeech 2022</i> submission
+</h2>
 
-Under construction...
+  <h3>
+  Abstract:
+  </h3>
+  Surprisal is used throughout computational psycholinguistics to model a range of language processing behaviour.
+  There is growing evidence that language model (LM) estimates of surprisal correlate with human performance on a range of written language comprehension tasks.
+
+  Although communicative interaction is perhaps the primary form of language use, most studies of surprisal employ monological, written data. Towards the goal of understanding perception in spontaneous, natural language, we present an exploratory investigation into whether the relationship between human comprehension behaviour and LM-estimated surprisal holds when applied to dialogue, considering both written dialogue, and the lexical component of spoken dialogue. We use a novel judgement task of dialogue utterance acceptability to ask two questions. "How well can people make predictions about written dialogue and transcripts of spoken dialogue?" and "Does surprisal correlate with these acceptability judgements?".
+
+  We demonstrate that people can make accurate predictions about upcoming dialogue and that their ability differs between spoken transcripts and written conversation. We investigate the relationship between global and local operationalisations of surprisal and human acceptability judgements, finding a combination of both to provide the most predictive power.
+
+<h3>
+Stimuli:
+</h3>
+  <blockquote>
+  We provide the full sets of stimuli from the Switchboard and DailyDialog corpora along with the plausibility ratings <a href="https://data.cstr.ed.ac.uk/sarenne/INTERSPEECH2022/">here </a>.
+  </blockquote>
+
+  The <a href="https://www.qualtrics.com/">Qualtrics</a> survey (constructed using <a href="https://github.com/CSTR-Edinburgh/qualtreats">`https://github.com/CSTR-Edinburgh/qualtreats`</a>) was presented to participants through <a href="https://www.prolific.co/">Prolific Academic</a>. An example of the stimuli presentation is included here:
+  <img src="screenshots/im1.png" alt="Flowers in Chania">
