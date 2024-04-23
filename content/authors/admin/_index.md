@@ -72,14 +72,18 @@ email: ""
 highlight_name: false
 ---
 
-I’m a second year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai, Peter Bell, and Steve Renals.
+<span style="color:#6BD099"><b>Update Jan 2024</b> -- <i> I'm exploring opportunities to start once I've finished my PhD. Reach out to chat!</i></span>
 
-My research is about **communication**, and how we use it efficiently.
 
-Currently, my focus is spoken conversation.  I'm investigating how to leverage information in the audio channel of speech to better understand what makes human interaction fluent (and disfluent), and how we jointly encode and decode information across the lexical and non-lexical channels of spoken communication. I'm excited about learning representations of speech with self-supervised and multimodal approaches.
+I'm a final year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
 
-_[Translation: Spoken conversation is one of the most fundamental means of information transmission between people. How can we leverage the non-lexical information encoded in our speech to better understand human communication and augment human-machine interaction?]_
+I'm interested in **communication** and how we use it efficiently.
+My current research investigates how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to build more efficient, perceptually-motivated representations of speech (and other multi-channel signals).
 
-In my spare time, I love to play, sing, and listen to music. I also enjoy climbing moutains or rocks (whichever is closest!), and teaching yoga.
+<i>Translation: Spoken conversation is one of the most fundamental means we have for information transmission. How can we leverage the information encoded in both [what words we say]<sub>Lexical</sub> and [how we say them]<sub>Non-lexical</sub> to better understand human communication and augment human-machine interaction?</i>
 
-{{< icon name="download" pack="fas" >}} Before starting my PhD, I worked on a number of ML research teams in the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
+-----
+
+In my spare time, I play, sing, and listen to music. I enjoy climbing moutains or rocks (whichever are closer!) and teaching yoga.
+
+{{< icon name="download" pack="fas" >}}  Before starting my PhD, I worked on several ML & NLP research teams in the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.

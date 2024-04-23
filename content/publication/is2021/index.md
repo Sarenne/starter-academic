@@ -40,7 +40,7 @@ featured: true
 links:
 # - name: Custom Link
   # url: http://example.org
-url_pdf: https://arxiv.org/pdf/2105.00260.pdf
+url_pdf: https://www.isca-speech.org/archive/interspeech_2021/wallbridge21_interspeech.html
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

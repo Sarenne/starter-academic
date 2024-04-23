@@ -17,8 +17,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: submitted to *Interspeech 2022*
-# publication_short: In *I*
+publication: published in *Interspeech 2022*
 
 abstract:
   Surprisal is used throughout computational psycholinguistics to model a range of language processing behaviour.
@@ -80,7 +79,7 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}} -->
 <h2>
-Stimuli page for <i>Interspeech 2022</i> submission
+Stimuli page for work appearing in  <i>Interspeech 2022</i>
 </h2>
 
   <h3>
