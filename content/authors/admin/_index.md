@@ -75,7 +75,7 @@ highlight_name: false
 <span style="color:#6BD099"><b>Update March 2024</b> -- <i> I'm exploring opportunities to start once I've finished my PhD. Reach out to chat!</i></span>
 
 
-I'm a final year PhD student at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
+I'm a final year PhD at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
 
 I'm interested in **communication** and how we use it efficiently.
 My current research investigates how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to build more efficient, perceptually-motivated representations of speech (and other multi-channel signals).
