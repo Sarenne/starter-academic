@@ -76,6 +76,8 @@ slides: ""
 
 In *Interspeech 2022*; Incheon, Korea
 
+Check out our stimuli [here](https://github.com/Sarenne/is2022).
+
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}} -->
