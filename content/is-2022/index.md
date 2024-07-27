@@ -103,5 +103,5 @@ Stimuli:
   
   
   An screenshot of the lexical stimuli presentation is included below while an example of the full survey can be viewed through [this link](https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_bEBMmYhvWQPAjDo).
-:
+
   <img src="screenshots/im1.png" alt="Flowers in Chania">
