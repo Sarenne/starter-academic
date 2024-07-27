@@ -55,7 +55,7 @@ date_format: Jan 2006
 ---
 
 * **07/2024**: [New pre-print](https://osf.io/preprints/psyarxiv/fhp84)! This work presents a new paradigm for computing predictability during incremental language comprehension. 
-* **06/2024**: Our paper was accepted at Interspeech, reach out if you'll also be in Kos
+* **06/2024**: Our paper was accepted at Interspeech, reach out if you'll be in Kos.
 * **02/2024**: I'm organising the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2023) again at Interspeech 2024, *reach out if you're interested in applying!*
 * **01/2024**: Presenting a talk at the [Speech, Music and Hearing group (TMH)](https://www.kth.se/is/tmh) in [KTH Royal Institute of Technology](), Stockholm. <!-- : `Quantifying the perceptual value of information  channels in spoken communication`. -->
 * **10/2023**: Our paper was accepted to EMNLP, shiok!
