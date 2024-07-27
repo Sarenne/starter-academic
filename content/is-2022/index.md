@@ -99,5 +99,9 @@ Stimuli:
   We provide the full sets of stimuli from the Switchboard and DailyDialog corpora along with the plausibility ratings <a href="https://data.cstr.ed.ac.uk/sarenne/INTERSPEECH2022/">here </a>.
   </blockquote>
 
-  The <a href="https://www.qualtrics.com/">Qualtrics</a> survey (constructed using <a href="https://github.com/CSTR-Edinburgh/qualtreats">`https://github.com/CSTR-Edinburgh/qualtreats`</a>) was presented to participants through <a href="https://www.prolific.co/">Prolific Academic</a>. An example of the stimuli presentation is included here:
+  The <a href="https://www.qualtrics.com/">Qualtrics</a> survey (constructed using <a href="https://github.com/CSTR-Edinburgh/qualtreats">`https://github.com/CSTR-Edinburgh/qualtreats`</a>) was presented to participants through <a href="https://www.prolific.co/">Prolific Academic</a>. 
+  
+  
+  An screenshot of the lexical stimuli presentation is included below while an example of the full survey can be viewed through [this link](https://edinburghinformatics.eu.qualtrics.com/jfe/form/SV_bEBMmYhvWQPAjDo).
+:
   <img src="screenshots/im1.png" alt="Flowers in Chania">
