@@ -54,6 +54,7 @@ date_format: Jan 2006
 #   url: ""
 ---
 
+* **07/2024**: Our paper was accepted at SemDial!
 * **07/2024**: [New pre-print](https://osf.io/preprints/psyarxiv/fhp84)! This work presents a new paradigm for computing predictability during incremental language comprehension. 
 * **06/2024**: Our paper was accepted at Interspeech, reach out if you'll be in Kos.
 * **02/2024**: I'm organising the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2023) again at Interspeech 2024, *reach out if you're interested in applying!*
