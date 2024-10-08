@@ -72,8 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-<span style="color:#6BD099"><b>Update March 2024</b> -- <i> I'm exploring opportunities to start once I've finished my PhD. Reach out to chat!</i></span>
-
+<span style="color:#6BD099"><b>Update September 2024</b> -- <i> I've submitted my thesis and am exploring opportunities to start once I've defended my PhD. Reach out to chat!</i></span>
 
 I'm a final year PhD at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
 

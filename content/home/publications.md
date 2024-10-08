@@ -12,14 +12,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: 'Selected Publications'
+title: 'Recent Publications'
 subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 7
   # Filter on criteria
   filters:
     author: ""

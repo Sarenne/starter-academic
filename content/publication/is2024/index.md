@@ -1,10 +1,10 @@
 ---
-title: "PairwiseTurnGPT: a multi-stream turn prediction model for spoken dialogue"
+title: "What do people hear? Listeners’ perception of conversational speech"
 authors:
-- Sean Leishman
-- Peter Bell
+- Adaeze Adigwe
 - admin
-date: "2024-08-01T00:00:00Z"
+- Simon King
+date: "2024-08-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,13 +17,13 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *SemDial 2024*; Rovereto, Italy
+publication: In *Interspeech 2024*; Kos, Greece
 # publication_short: In *Interspeech 2021* (under review). Brno, Czech Republic
 
-abstract: "Spoken conversation is characterised by rapid turn transitions and frequent speaker overlaps. However, existing models of turn-taking treat dialogue as a series of incremental turns. We propose PairwiseTurnGPT, a language model that captures the temporal dynamics of lexical content by modelling dialogue as two aligned speaker streams. PairwiseTurnGPT provides a much more nuanced understanding of how lexical content contributes to predicting turn-taking behaviour in speech. By training the model with data configurations containing different turn-taking behaviours, we demonstrate the relative contributions of partial, complete, and backchannel overlaps for accurately predicting the variety of turn ends that occur in spoken dialogue. We also show that PairwiseTurnGPT improves on serialised models of dialogue for predicting turn ends and the more difficult task of predicting when a turn will start."
+abstract: "Conversational agents are becoming increasingly popular, prompting the need for text-to-speech (TTS) systems that sound conversational. Previous research has focused on training TTS models on elicited or found conversational speech then measuring an improved listener preference. Preference ratings cannot pinpoint why TTS voices fall short of conversational expectations, underscoring our limited understanding of conversational speaking styles. In this pilot study, we conduct interviews with naive listeners who evaluate if speech was taken from a conversation or not, then give their explanation. Our results indicate that listeners are capable of distinguishing conversational utterances from read speech from acoustic features alone. While listeners’ explanations vary, they generally allude to pronunciation, rhythmic organisation, and inappropriate prosody. Using targeted prosodic modifications to synthesise speech, we shed light on the complexity of evaluating conversational style."
 
 # Summary. An optional shortened abstract.
-summary: "In _SemDial 2024_; Rovereto, Italy"
+summary: "In _Interspeech 2024_; Kos, Greece"
 
 # People convey information extremely effectively through spoken interaction using multiple channels of information transmission - the lexical channel of *what* is said, and the non-lexical channel of *how* it is said. We propose studying human perception of spoken communication as a means to better understand how information is encoded across these channels, focusing on the question  What characteristics of communicative context affect listener's expectations of speech?. "
 
@@ -34,7 +34,7 @@ featured: true
 links:
 # - name: Custom Link
   # url: http://example.org
-url_pdf: https://www.semdial.org/anthology/papers/Z/Z24/Z24-3002/
+url_pdf: https://www.isca-archive.org/interspeech_2024/adigwe24_interspeech.html
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
@@ -66,7 +66,7 @@ projects: []
 slides: ""
 ---
 
-"In *SemDial 2024*; Rovereto, Italy"
+"In *Interspeech 2024*; Kos, Greece"
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
