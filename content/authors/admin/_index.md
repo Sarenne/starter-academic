@@ -6,7 +6,7 @@ title: Sarenne Wallbridge
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning PhD Student
+role: Machine Learning PhD Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,12 +72,12 @@ email: ""
 highlight_name: false
 ---
 
-<span style="color:#6BD099"><b>Update September 2024</b> -- <i> I've submitted my thesis and am exploring opportunities to start once I've defended my PhD. Reach out to chat!</i></span>
+<span style="color:#6BD099"><b>Update Janurary 2025</b> -- <i> I've defended my PhD thesis and am actively exploring new career opportunities. Reach out to chat!</i></span>
 
-I'm a final year PhD at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
+I'm a research associate at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
 
 I'm interested in **communication** and how we use it efficiently.
-My current research investigates how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to build more efficient, perceptually-motivated representations of speech (and other multi-channel signals).
+My current research investigates how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to build more efficient, perceptually-motivated representations of speech and other multi-channel signals.
 
 <i>Translation: Spoken conversation is one of the most fundamental means we have for information transmission. How can we leverage the information encoded in both [what words we say]<sub>Lexical</sub> and [how we say them]<sub>Non-lexical</sub> to better understand human communication and augment human-machine interaction?</i>
 
