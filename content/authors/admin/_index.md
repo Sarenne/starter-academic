@@ -49,9 +49,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/sarenne.wallbridge
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=flRw1JAAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/sarenne
@@ -63,7 +63,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/cv_phd.pdf
+  link: media/cv_phd_googledoc.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -79,10 +79,10 @@ I'm a research associate at the [University of Edinburgh](https://www.ed.ac.uk/)
 I'm interested in **communication** and how we use it efficiently.
 My current research investigates how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to build more efficient, perceptually-motivated representations of speech and other multi-channel signals.
 
-<i>Translation: Spoken conversation is one of the most fundamental means we have for information transmission. How can we leverage the information encoded in both [what words we say]<sub>Lexical</sub> and [how we say them]<sub>Non-lexical</sub> to better understand human communication and augment human-machine interaction?</i>
+<i>Translation: Spoken conversation is one of the most fundamental means we have for information transmission. How can we make use of information encoded in both [what words we say]<sub>Lexical</sub> and [how we say them]<sub>Non-lexical</sub> to better understand human communication and augment human-machine interaction?</i>
 
 -----
 
-In my spare time, I play, sing, and listen to music. I enjoy climbing moutains or rocks (whichever are closer!) and teaching yoga.
+In my spare time, I play, sing, and listen to music. I enjoy climbing moutains and rocks (whichever are closer!) and teaching yoga.
 
-{{< icon name="download" pack="fas" >}}  Before starting my PhD, I worked on several ML & NLP research teams in the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
+{{< icon name="download" pack="fas" >}}  Before starting my PhD, I worked on several ML & NLP research teams across the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd_googledoc.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
