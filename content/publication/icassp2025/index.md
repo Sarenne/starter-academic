@@ -2,7 +2,7 @@
 title: "Can We ''Cherry-Pick''? Investigating Multiple Renditions from a Generative Speech Synthesis Model"
 authors:
 - Adaeze Adigwe
-- Sarenne Wallbridge
+- admin
 - Zehai Tu
 - Catherine Lai
 - Simon King 
@@ -19,7 +19,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: published in *ICASSP 2023*; Hyderabad, India
+publication: published in *ICASSP 2025*; Hyderabad, India
 
 abstract: 
   Generative Speech Models (GSMs) have seen a surge in popularity due to their ability to generate diverse and high-quality speech. Evaluating models that generate many different renditions for a given input sentence presents a new challenge. Listening tests are still the gold standard for evaluating synthetic speech, but current paradigms only consider a single arbitrary rendition; this fails to give a complete picture of best/typical/worst-rendition performance. We propose a general framework for evaluating and deploying generative speech models. This involves selecting amongst renditions using a sequence of filtering or ranking steps, each using either an objective or subjective (listening) method. The framework is not tied to a particular generative model, and so could be applied to any such model. In this paper, we provide a demonstration of a simple version of this framework which would apply to use-cases where best-rendition performance matters. We explore the concept of “cherry-picking”, and ask the question “Is there a rendition that is consistently preferred above all others by listeners?”. In a subjective listening test, participants ranked several renditions of the same sentence, from which we measured the prevalence of exceptional renditions. We find that there is indeed a preferred rendition in many, but not all cases. Our framework is flexible. In particular, the use of listeners is optional. In future, they could be replaced with model-based objective measures, for example
