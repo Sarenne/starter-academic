@@ -6,7 +6,7 @@ title: Sarenne Wallbridge
 superuser: true
 
 # Role/position/tagline
-role: Machine Learning PhD Fellow
+role: Speech Science Postdoc Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,12 +72,11 @@ email: ""
 highlight_name: false
 ---
 
-<span style="color:#6BD099"><b>Update Janurary 2025</b> -- <i> I've defended my PhD thesis and am actively exploring new career opportunities. Reach out to chat!</i></span>
+<!-- <span style="color:#6BD099"><b>Update Janurary 2025</b> -- <i> I've defended my PhD thesis and am actively exploring new career opportunities. Reach out to chat!</i></span> -->
 
-I'm a research associate at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) and [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc), working with Catherine Lai and Peter Bell.
+I'll be joining the the UK AI Security Institute as a research scientist, working to understand and address the socio-cultural impacts of AI on individuals and society at large. Currently, I am a research associate at the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc). Prior to this, I completed my PhD in the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) at the University of Edinburgh where I worked with Catherine Lai and Peter Bell.
 
-I'm interested in **communication** and how we use it efficiently.
-My current research investigates how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to build more efficient, perceptually-motivated representations of speech and other multi-channel signals.
+I'm interested in **communication** and how we use it efficiently. My research explores the underlying mechanisms that allow people to understand and produce language. Throughout my PhD, I focused on how information encoded in the lexical and non-lexical channels of *spoken communication* affects perception, and how we can leverage these findings to better understand how human language comprehension as well as guide the development of more efficient, perceptually-motivated representations of speech and other multi-channel signals.
 
 <i>Translation: Spoken conversation is one of the most fundamental means we have for information transmission. How can we make use of information encoded in both [what words we say]<sub>Lexical</sub> and [how we say them]<sub>Non-lexical</sub> to better understand human communication and augment human-machine interaction?</i>
 
@@ -85,4 +84,4 @@ My current research investigates how information encoded in the lexical and non-
 
 In my spare time, I play, sing, and listen to music. I enjoy climbing moutains and rocks (whichever are closer!) and teaching yoga.
 
-{{< icon name="download" pack="fas" >}}  Before starting my PhD, I worked on several ML & NLP research teams across the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd_googledoc.pdf" "newtab" >}}resumé{{< /staticref >}} for more details.
+{{< icon name="download" pack="fas" >}}  Before starting my PhD, I worked on several ML & NLP research teams across the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd_googledoc_long.pdf" "newtab" >}}resumé{{< /staticref >}} for more details (updated June 2025).
