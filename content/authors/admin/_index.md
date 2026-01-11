@@ -10,9 +10,9 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UK AISI
+- name: UK AISI | Human Influence
   url: https://www.aisi.gov.uk/
-- name: University of Edinburgh, ILCC & CSTR
+- name: University of Edinburgh | ILCC & CSTR
   url: https://web.inf.ed.ac.uk/ilcc
 
 # Short bio (displayed in user profile at end of posts)
@@ -80,7 +80,8 @@ I'm a research scientist on the Human Influence team at the [UK AI Security Inst
  <!-- people interact with AI systems through spoken and written conversation.  -->
 
 <!-- I'm interested in **communication systems** and how we use them efficiently.  -->
-Before this, I was a research associate in the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc). I completed my PhD in the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) at the University of Edinburgh where I worked with Catherine Lai and Peter Bell.
+Before this, I was a research associate in the [University of Edinburgh](https://www.ed.ac.uk/)'s [Institute for Language, Cognition and Computation](https://web.inf.ed.ac.uk/ilcc). I completed my PhD in the [Centre for Speech Technology Research](http://www.cstr.ed.ac.uk/) at the University of Edinburgh where I worked with Catherine Lai and Peter Bell on information theoretic models of speech perception. I also worked on a number of start-up teams in healthtech, ML & NLP across the UK, Denmark, and Germany. 
+{{< icon name="download" pack="fas" >}} Check out my {{< staticref "media/cv_phd_gd_long.pdf" "newtab" >}}resumé{{< /staticref >}} for more details (updated Nov 2025).
 
 Alongside speech safety, my research explores the congitive mechanisms that underpin our ability to understand and produce language. During my PhD, I was particularly focused on how information encoded in the lexical and non-lexical channels of spoken communication affects perception. I applied these insights to better model human language comprehension as well as guide the development of efficient, perceptually-motivated representations of multi-channel communicative signals.
 
@@ -88,6 +89,4 @@ Alongside speech safety, my research explores the congitive mechanisms that unde
 
 -----
 
-In my spare time, I play, sing, and listen to music. I enjoy climbing moutains and rocks (whichever are closer!) and teaching yoga.
-
-{{< icon name="download" pack="fas" >}}  Before starting my PhD, I worked on several ML & NLP research teams across the UK, Denmark, and Germany. Check out my {{< staticref "media/cv_phd_gd_long.pdf" "newtab" >}}resumé{{< /staticref >}} for more details (updated Nov 2025).
+In my spare time, I play, sing, and listen to music. I love climbing moutains and rocks (whichever are closer!) and teaching yoga when I can!

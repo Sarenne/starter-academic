@@ -54,13 +54,16 @@ date_format: Jan 2006
 #   url: ""
 ---
 
+* **01/2026**: Our paper was accepted at EACL! 
+* **12/2025**: I'm organising the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2025) again at Interspeech 2026, feel free to *get in touch if you (or a student you know) are interested in applying!*
+* **12/2025**: I'm also organising the [Explainability for Compliance and Trust in Speech AI](https://sites.google.com/view/ect-speechai2026), a special session at Interspeech 2026, feel free to *get in touch if you'd like to submit a paper!*
+* **09/2025**: Our paper was accepted at ASRU, where I'll also be chairing the special session on [Responsible Speech and Audio Generative AI](https://codecfake.github.io/RespSA-GenAI/). Send me a message if you'd like to arrange a chat.
 * **06/2025**: I've joined the AI Security Institute in London as a research scientist on the Societal Impacts team!  
 * **05/2025**: Our paper was accepted to Interspeech; blij om weer in NL te zijn!  
-* **02/2025**: I'm organising the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2025) again at Interspeech 2025, feel free to *get in touch if you (or a student you know) are interested in applying!*
 * **01/2025**: Our paper was accepted at ICASSP!
 * **07/2024**: I had the joy of supervising [Sean Leishman](https://seanleishman.com/)'s MInf thesis; we turned his experiments into a long paper which was accepted at SemDial!
 * **07/2024**: [New pre-print](https://osf.io/preprints/psyarxiv/fhp84) with UvA and ETH! This work presents a new paradigm for computing predictability during incremental language comprehension. 
-* **06/2024**: Both of our papers were accepted at Interspeech--reach out if you'll be in Kos.
+* **06/2024**: Both of our papers were accepted at Interspeech--reach out if you'll also be in Kos.
 * **01/2024**: Presenting a talk at the [Speech, Music and Hearing group (TMH)](https://www.kth.se/is/tmh) in [KTH Royal Institute of Technology](), Stockholm. <!-- : `Quantifying the perceptual value of information  channels in spoken communication`. -->
 * **10/2023**: Our paper was accepted to EMNLP, shiok!
 * **06/2023**: Joined [REST-CL](https://sites.google.com/view/rest-cl-2023/about)--thanks for the invitation!
