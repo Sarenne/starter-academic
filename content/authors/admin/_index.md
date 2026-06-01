@@ -76,7 +76,7 @@ highlight_name: false
 
 <!-- <span style="color:#6BD099"><b>Update Janurary 2025</b> -- <i> I've defended my PhD thesis and am actively exploring new career opportunities. Reach out to chat!</i></span> -->
 
-I'm a research scientist on the Human Influence team at the [UK AI Security Institute](https://www.aisi.gov.uk/) where I'm working to understand and address the socio-cultural impacts of AI on individuals and society at large. My main focus is in the development of responsible audio AI; particularly in assessing the capabilities of speech technologies and their impacts on human behaviour.
+I'm a research scientist on the Human Influence team at the [UK AI Security Institute](https://www.aisi.gov.uk/) where I work to understand and address the socio-cultural impacts of AI on individuals and society at large. My main focus is the development of responsible audio AI; particularly assessing the capabilities of speech technologies and their impacts on human behaviour.
  <!-- people interact with AI systems through spoken and written conversation.  -->
 
 <!-- I'm interested in **communication systems** and how we use them efficiently.  -->
