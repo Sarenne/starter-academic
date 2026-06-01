@@ -54,7 +54,8 @@ date_format: Jan 2006
 #   url: ""
 ---
 
-* **01/2026**: Our paper was accepted at EACL! 
+* **03/2026**: Sean will be presenting our [paper](https://aclanthology.org/2026.eacl-long.283/) at EACL in Morocco, go say hi :)  
+* **02/2026**: I'll be attending the [International Association for Safe and Ethical AI'26](https://www.iaseai.org/iaseai26) in Paris to talk about our work on how AI systems discloure their identity. Reach out if you'd like to set up a chat! 
 * **12/2025**: I'm organising the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2025) again at Interspeech 2026, feel free to *get in touch if you (or a student you know) are interested in applying!*
 * **12/2025**: I'm also organising the [Explainability for Compliance and Trust in Speech AI](https://sites.google.com/view/ect-speechai2026), a special session at Interspeech 2026, feel free to *get in touch if you'd like to submit a paper!*
 * **09/2025**: Our paper was accepted at ASRU, where I'll also be chairing the special session on [Responsible Speech and Audio Generative AI](https://codecfake.github.io/RespSA-GenAI/). Send me a message if you'd like to arrange a chat.
