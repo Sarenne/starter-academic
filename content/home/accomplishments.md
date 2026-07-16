@@ -53,9 +53,9 @@ date_format: Jan 2006
 #   title: 'Object-Oriented Programming in R: S3 and R6 Course'
 #   url: ""
 ---
-
+* **06/2026**: We released **RealityTest**, a benchmark for evaluating how AI systems respond when people probe their indentity in spoken and written interactions across 5 major languages. Our [paper](https://arxiv.org/abs/2606.00168) (and [blog post](https://www.aisi.gov.uk/blog/realitytest-do-ai-systems-disclose-their-identity-when-asked)) highlight the importance of understanding how people actually manage ambiguity about the identity of their partner in interactions for evaluating model behaviour.
 * **03/2026**: Sean will be presenting our [paper](https://aclanthology.org/2026.eacl-long.283/) at EACL in Morocco, go say hi :)  
-* **02/2026**: I'll be attending the [International Association for Safe and Ethical AI'26](https://www.iaseai.org/iaseai26) in Paris to talk about our work on how AI systems discloure their identity. Reach out if you'd like to set up a chat! 
+* **02/2026**: I'll be attending the [International Association for Safe and Ethical AI'26](https://www.iaseai.org/iaseai26) in Paris to talk about our work on how AI systems disclose their identity. Reach out if you'd like to arrange a chat! 
 * **12/2025**: I'm organising the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2025) again at Interspeech 2026, feel free to *get in touch if you (or a student you know) are interested in applying!*
 * **12/2025**: I'm also organising the [Explainability for Compliance and Trust in Speech AI](https://sites.google.com/view/ect-speechai2026), a special session at Interspeech 2026, feel free to *get in touch if you'd like to submit a paper!*
 * **09/2025**: Our paper was accepted at ASRU, where I'll also be chairing the special session on [Responsible Speech and Audio Generative AI](https://codecfake.github.io/RespSA-GenAI/). Send me a message if you'd like to arrange a chat.
@@ -75,7 +75,7 @@ date_format: Jan 2006
 * **01/2023**: I’m running a lecture series `An Introduction to Neural Networks` on the [Speech & Language Processing MSc](https://www.ed.ac.uk/c/slp-pg-online-info) this term.
 * **12/2022**: Presenting a talk at [SIGMEDIA](https://sigmedia.github.io/) in [Trinity College Dublin](https://www.tcd.ie/). <!-- : `Developing and Evaluating Speech Synthesis models in Context`. -->
 * **09/2022**: Awarded Best Student Paper at Interspeech 2022!
-* **05/2022**: Organiser for [UK Speech](https://conferences.inf.ed.ac.uk/ukspeech2022/) in Edinburgh (9/22). Come and say hi!
+* **05/2022**: I'm organising [UK Speech](https://conferences.inf.ed.ac.uk/ukspeech2022/) in Edinburgh this year (9/22). Come and say hi!
 
 ...
 <!-- * **02/2023**: Organiser for the [Young Female Researchers in Speech workshop](https://sites.google.com/view/yfrsw-2023) at Interspeech 2023, *reach out if you're interested in applying!* -->
